@@ -1,8 +1,15 @@
-# Power-BI-FINOPPS-ANAlYSIS
+# Power-BI-FINOPPS-Analysis
 
 ## Table Of Contents
 
-- [Project Overview](#Project Overview)
+- [ Project Overview ](#Project-Overview)
+- [ Data Source ](#Data-Source)
+- [ Tools ](#Tools)
+- [ Data Extraction and Cleaning ](#Data-Extraction-and-Cleaning)
+- [ Data Modelling ](#Data-Modelling)
+- [ Data Visualisation ](#Data-Visualisation)
+- [ Explanatory Data Analysis](#Explanatory-Data-Analysis)
+- [ Findings ](#Findings)
 
 ### Project Overview
 
@@ -21,27 +28,26 @@ FINOPPS Data:A csv file provided by the organisation ,which contains the relevan
 2. Load and transform the data using Power Query.
 3. Address any missing values.
 4. Standardize data formatting.
+![Finopps load data](https://github.com/user-attachments/assets/13e83892-2591-4f10-9066-35149235150a)
 
 ### Data Modelling
 1. Identify and count the number of dimension tables (Dim Tables) derived from the Fact Table (FINOPPS Data).
 2. Duplicate the Fact Table based on the identified number of Dimension Tables.
 3. Create the necessary Dimension Tables.
 4. Normalize the Fact Table and rename it to FactFinopps, then close Power Query.
+5. Navigate to the modeling page by clicking the leftmost option on the home tab.
+6. Establish a Star Schema model by creating relationships between the Fact Table and the Dimension Tables.
+7. Use the drag-and-drop method to define these relationships.
 
-
-### Data Modelling
-1. Navigate to the modeling page by clicking the leftmost option on the home tab.
-2. Establish a Star Schema model by creating relationships between the Fact Table and the Dimension Tables.
-3. Use the drag-and-drop method to define these relationships.
-
-   [Star Schema]
-
+![Data Modell](https://github.com/user-attachments/assets/c8fd18c2-11f5-40ce-b99a-eaa90759b33b)
 
 ### Data Visualisation
 1. Create a DAX Measure Table containing calculations for CSP Rate and PAYG Rate for report visualizations (for comparisons).
 2. Design the report theme.
 3. Select appropriate visualizations and format them according to the theme.
 4. Conduct testing on the report.
+   
+![Dashboard](https://github.com/user-attachments/assets/9698b6c1-c7aa-4dcc-9d8b-2fb43346bfb4)
 
 ### Explanatory Data Analysis
 - Analyze costs per subscriptionName, MeterCategory, and ResourceGroup.
