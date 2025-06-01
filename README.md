@@ -46,8 +46,10 @@ FINOPPS Data:A csv file provided by the organisation ,which contains the relevan
 2. Design the report theme.
 3. Select appropriate visualizations and format them according to the theme.
 4. Conduct testing on the report.
+ 
    
-![Dashboard](https://github.com/user-attachments/assets/9698b6c1-c7aa-4dcc-9d8b-2fb43346bfb4)
+![Dashboard](https://github.com/user-attachments/assets/3b33fe5a-89f2-4966-8e85-b4fdf1c34035)
+
 
 ### Explanatory Data Analysis
 - Analyze costs per subscriptionName, MeterCategory, and ResourceGroup.
