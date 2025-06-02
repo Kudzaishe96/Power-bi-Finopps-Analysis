@@ -45,7 +45,7 @@ FINOPPS Data:A csv file provided by the organisation ,which contains the relevan
    ![Data Modell](https://github.com/user-attachments/assets/c8fd18c2-11f5-40ce-b99a-eaa90759b33b)
 
 ### Data Visualisation
-1. Create a DAX Measure Table containing calculations for CSP Rate and PAYG Rate for report visualizations (for comparisons).
+1. Create a DAX Measures Table containing calculations for CSP Rate and PAYG Rate for report visualizations (for comparisons).
 2. Design the report theme.
 3. Select appropriate visualizations and format them according to the theme.
 4. Conduct testing on the report.
