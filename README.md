@@ -30,7 +30,7 @@ FINOPPS Data:A csv file provided by the organisation ,which contains the relevan
 4. Standardize data formatting.
 
    ### *Load Data*
-![Finopps load data](https://github.com/user-attachments/assets/13e83892-2591-4f10-9066-35149235150a)
+   ![Finopps load data](https://github.com/user-attachments/assets/13e83892-2591-4f10-9066-35149235150a)
 
 ### Data Modelling
 1. Identify and count the number of dimension tables (Dim Tables) derived from the Fact Table (FINOPPS Data).
@@ -41,8 +41,8 @@ FINOPPS Data:A csv file provided by the organisation ,which contains the relevan
 6. Establish a Star Schema model by creating relationships between the Fact Table and the Dimension Tables.
 7. Use the drag-and-drop method to define these relationships.
 
-### *Relationship Model*
-![Data Modell](https://github.com/user-attachments/assets/c8fd18c2-11f5-40ce-b99a-eaa90759b33b)
+   ### *Relationship Model*
+   ![Data Modell](https://github.com/user-attachments/assets/c8fd18c2-11f5-40ce-b99a-eaa90759b33b)
 
 ### Data Visualisation
 1. Create a DAX Measure Table containing calculations for CSP Rate and PAYG Rate for report visualizations (for comparisons).
@@ -50,9 +50,9 @@ FINOPPS Data:A csv file provided by the organisation ,which contains the relevan
 3. Select appropriate visualizations and format them according to the theme.
 4. Conduct testing on the report.
 
- ### *Dashboard*
+   ### *Dashboard*
    
-![Dashboard](https://github.com/user-attachments/assets/c313c44b-6c68-4960-9160-13634599ab6a)
+   ![Dashboard](https://github.com/user-attachments/assets/c313c44b-6c68-4960-9160-13634599ab6a)
 
 
 
